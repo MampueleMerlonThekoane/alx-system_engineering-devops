@@ -1,0 +1,7 @@
+a script that prints the absolute path name of the current working directory. > README.md
+
+clear
+
+clear
+
+echo root@0acde53ca3c0:/alx-system_engineering-devops/0x00-shell_basics# echo #!/bin/bash
